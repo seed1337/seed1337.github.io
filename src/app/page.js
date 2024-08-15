@@ -25,7 +25,7 @@ export default function Home() {
             <FaGithub size={30} className="mx-2" />
           </a>
           <a
-            href="https://twitter.com/seedshells"
+            href="https://twitter.com/_erg0sum"
             target="_blank"
             rel="noopener noreferrer"
           >
